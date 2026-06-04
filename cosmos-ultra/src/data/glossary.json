@@ -1,0 +1,244 @@
+﻿{
+  "terms": [
+    {
+      "term": "Apogee",
+      "category": "Orbital Mechanics",
+      "definition": "The point in an Earth orbit where a satellite is farthest from Earth.",
+      "example": "A spacecraft in an elliptical orbit reaches maximum altitude at apogee.",
+      "funFact": "For orbits around the Sun, the equivalent term is aphelion.",
+      "difficulty": 1
+    },
+    {
+      "term": "Perigee",
+      "category": "Orbital Mechanics",
+      "definition": "The point in an Earth orbit where a satellite is closest to Earth.",
+      "example": "Low perigee can increase atmospheric drag.",
+      "funFact": "For orbits around the Sun, the equivalent term is perihelion.",
+      "difficulty": 1
+    },
+    {
+      "term": "Delta-v",
+      "category": "Spaceflight",
+      "definition": "A measure of the change in velocity required to perform a maneuver.",
+      "example": "Reaching orbit requires a large delta-v budget.",
+      "funFact": "Mission planners often think in delta-v more than fuel mass.",
+      "difficulty": 2
+    },
+    {
+      "term": "Specific Impulse",
+      "category": "Propulsion",
+      "definition": "A measure of rocket engine efficiency, commonly expressed in seconds.",
+      "example": "Hydrogen engines often have high specific impulse.",
+      "funFact": "Ion engines can have extremely high specific impulse but low thrust.",
+      "difficulty": 2
+    },
+    {
+      "term": "Event Horizon",
+      "category": "Astrophysics",
+      "definition": "The boundary around a black hole beyond which nothing can escape.",
+      "example": "Light crossing the event horizon cannot return to the outside universe.",
+      "funFact": "The event horizon is not a solid surface.",
+      "difficulty": 2
+    },
+    {
+      "term": "Redshift",
+      "category": "Cosmology",
+      "definition": "The stretching of light toward longer wavelengths, often caused by cosmic expansion.",
+      "example": "Distant galaxies usually show redshift.",
+      "funFact": "Redshift helps astronomers estimate cosmic distance.",
+      "difficulty": 2
+    },
+    {
+      "term": "Main Sequence",
+      "category": "Stars",
+      "definition": "The long stable phase of a star's life when it fuses hydrogen in its core.",
+      "example": "The Sun is a main-sequence star.",
+      "funFact": "Most stars spend most of their lives on the main sequence.",
+      "difficulty": 1
+    },
+    {
+      "term": "Neutron Star",
+      "category": "Stars",
+      "definition": "An ultra-dense stellar remnant formed after some massive stars explode.",
+      "example": "Pulsars are rapidly rotating neutron stars.",
+      "funFact": "Neutron stars can pack more mass than the Sun into a city-sized sphere.",
+      "difficulty": 2
+    },
+    {
+      "term": "Pulsar",
+      "category": "Stars",
+      "definition": "A rotating neutron star that emits regular beams of radiation.",
+      "example": "Pulsars can act like precise cosmic clocks.",
+      "funFact": "Some pulsars rotate hundreds of times per second.",
+      "difficulty": 2
+    },
+    {
+      "term": "Exoplanet",
+      "category": "Celestial Bodies",
+      "definition": "A planet orbiting a star outside our solar system.",
+      "example": "Kepler discovered thousands of exoplanet candidates.",
+      "funFact": "Some exoplanets orbit multiple stars.",
+      "difficulty": 1
+    },
+    {
+      "term": "Habitable Zone",
+      "category": "Planetary Science",
+      "definition": "The region around a star where liquid water could exist on a planet's surface.",
+      "example": "Earth lies in the Sun's habitable zone.",
+      "funFact": "A habitable-zone planet still needs the right atmosphere and geology.",
+      "difficulty": 1
+    },
+    {
+      "term": "Transit",
+      "category": "Exoplanets",
+      "definition": "An event where a planet passes in front of its star from our viewpoint.",
+      "example": "The transit method detects tiny dips in starlight.",
+      "funFact": "Transit timing can reveal additional planets.",
+      "difficulty": 2
+    },
+    {
+      "term": "Heliopause",
+      "category": "Solar System",
+      "definition": "The boundary where the solar wind is stopped by the interstellar medium.",
+      "example": "Voyager 1 crossed the heliopause.",
+      "funFact": "The heliopause marks a practical edge of the Sun's influence.",
+      "difficulty": 2
+    },
+    {
+      "term": "Solar Wind",
+      "category": "Space Weather",
+      "definition": "A stream of charged particles flowing outward from the Sun.",
+      "example": "Strong solar wind can disturb Earth's magnetosphere.",
+      "funFact": "Solar wind helps create auroras.",
+      "difficulty": 1
+    },
+    {
+      "term": "Kp Index",
+      "category": "Space Weather",
+      "definition": "A global index describing geomagnetic activity on a scale from 0 to 9.",
+      "example": "Kp 7 can indicate a strong geomagnetic storm.",
+      "funFact": "High Kp values can expand aurora visibility.",
+      "difficulty": 1
+    },
+    {
+      "term": "Coronal Mass Ejection",
+      "category": "Space Weather",
+      "definition": "A large eruption of plasma and magnetic field from the Sun's corona.",
+      "example": "Earth-directed CMEs can trigger geomagnetic storms.",
+      "funFact": "CMEs can take one to several days to reach Earth.",
+      "difficulty": 2
+    },
+    {
+      "term": "TLE",
+      "category": "Satellites",
+      "definition": "A two-line element set that describes a satellite orbit.",
+      "example": "Satellite trackers use TLEs with SGP4 propagation.",
+      "funFact": "TLEs are compact and widely distributed.",
+      "difficulty": 2
+    },
+    {
+      "term": "SGP4",
+      "category": "Satellites",
+      "definition": "A standard model used to propagate satellite positions from TLE data.",
+      "example": "The ISS tracker can use SGP4 to predict future positions.",
+      "funFact": "SGP4 accounts for common perturbations in Earth orbit.",
+      "difficulty": 3
+    },
+    {
+      "term": "Lagrange Point",
+      "category": "Orbital Mechanics",
+      "definition": "A location where gravitational and orbital effects allow small objects to maintain position relative to two larger bodies.",
+      "example": "JWST operates near the Sun-Earth L2 point.",
+      "funFact": "Some Lagrange points are more stable than others.",
+      "difficulty": 2
+    },
+    {
+      "term": "Roche Limit",
+      "category": "Planetary Science",
+      "definition": "The distance inside which tidal forces can tear apart an object held together by gravity.",
+      "example": "Planetary rings may form from material inside the Roche limit.",
+      "funFact": "The exact limit depends on density and rigidity.",
+      "difficulty": 3
+    },
+    {
+      "term": "Oberth Effect",
+      "category": "Spaceflight",
+      "definition": "The increased efficiency of a rocket burn performed at high speed deep in a gravity well.",
+      "example": "A burn near periapsis can gain more orbital energy.",
+      "funFact": "The Oberth effect is central to many gravity-assist strategies.",
+      "difficulty": 3
+    },
+    {
+      "term": "Gravity Assist",
+      "category": "Spaceflight",
+      "definition": "A maneuver using a planet's motion and gravity to change spacecraft speed and direction.",
+      "example": "Voyager used gravity assists to tour the outer planets.",
+      "funFact": "Gravity assists exchange a tiny amount of momentum with the planet.",
+      "difficulty": 2
+    },
+    {
+      "term": "Light-Year",
+      "category": "Cosmology",
+      "definition": "The distance light travels in one year.",
+      "example": "Proxima Centauri is about 4.24 light-years away.",
+      "funFact": "A light-year is a distance, not a time.",
+      "difficulty": 1
+    },
+    {
+      "term": "Astronomical Unit",
+      "category": "Solar System",
+      "definition": "A unit based on the average Earth-Sun distance.",
+      "example": "Earth orbits about 1 AU from the Sun.",
+      "funFact": "One AU is about 150 million kilometers.",
+      "difficulty": 1
+    },
+    {
+      "term": "Spectroscopy",
+      "category": "Astronomy",
+      "definition": "The study of light split into wavelengths to reveal composition, temperature, and motion.",
+      "example": "Spectroscopy can identify chemicals in a star's atmosphere.",
+      "funFact": "It is one of astronomy's most powerful tools.",
+      "difficulty": 2
+    },
+    {
+      "term": "Regolith",
+      "category": "Planetary Science",
+      "definition": "Loose rock, dust, and soil-like material covering solid planetary surfaces.",
+      "example": "Lunar regolith is sharp and abrasive.",
+      "funFact": "Regolith forms through impacts and weathering.",
+      "difficulty": 1
+    },
+    {
+      "term": "Cryovolcano",
+      "category": "Planetary Science",
+      "definition": "A volcano that erupts volatile materials such as water, ammonia, or methane instead of molten rock.",
+      "example": "Some icy moons may have cryovolcanoes.",
+      "funFact": "Cryovolcanism may reveal subsurface oceans.",
+      "difficulty": 2
+    },
+    {
+      "term": "Magnetosphere",
+      "category": "Space Weather",
+      "definition": "The region around a planet dominated by its magnetic field.",
+      "example": "Earth's magnetosphere helps shield us from solar wind.",
+      "funFact": "Jupiter has the largest planetary magnetosphere in the solar system.",
+      "difficulty": 1
+    },
+    {
+      "term": "Ablation",
+      "category": "Space Technology",
+      "definition": "The controlled loss of heat-shield material to carry heat away during reentry.",
+      "example": "Many capsules use ablative heat shields.",
+      "funFact": "Ablation can protect a spacecraft from thousands of degrees of heating.",
+      "difficulty": 2
+    },
+    {
+      "term": "CubeSat",
+      "category": "Space Technology",
+      "definition": "A small satellite built from standardized cube-shaped units.",
+      "example": "A 3U CubeSat is three units long.",
+      "funFact": "CubeSats let universities and startups fly space missions.",
+      "difficulty": 1
+    }
+  ]
+}

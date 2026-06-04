@@ -1,0 +1,112 @@
+﻿{
+  "events": [
+    {
+      "name": "Quadrantids Meteor Shower Peak",
+      "type": "Meteor Shower",
+      "date": "2026-01-03T20:00:00Z",
+      "description": "A strong annual meteor shower with a short peak window. Best viewed from dark northern skies after midnight."
+    },
+    {
+      "name": "Wolf Moon",
+      "type": "Full Moon",
+      "date": "2026-01-03T10:03:00Z",
+      "description": "The first full Moon of the year. Bright moonlight can reduce meteor visibility."
+    },
+    {
+      "name": "New Moon",
+      "type": "Moon Phase",
+      "date": "2026-01-18T19:52:00Z",
+      "description": "Dark skies around new Moon are ideal for deep-sky observing."
+    },
+    {
+      "name": "Snow Moon",
+      "type": "Full Moon",
+      "date": "2026-02-01T22:09:00Z",
+      "description": "A bright winter full Moon that rises near sunset."
+    },
+    {
+      "name": "New Moon",
+      "type": "Moon Phase",
+      "date": "2026-02-17T12:01:00Z",
+      "description": "A low-glare night for observing galaxies, nebulae, and star clusters."
+    },
+    {
+      "name": "March Equinox",
+      "type": "Season",
+      "date": "2026-03-20T14:46:00Z",
+      "description": "Day and night are nearly equal across much of Earth as the Sun crosses the celestial equator."
+    },
+    {
+      "name": "Lyrids Meteor Shower Peak",
+      "type": "Meteor Shower",
+      "date": "2026-04-22T06:00:00Z",
+      "description": "The Lyrids can produce bright, fast meteors. Look toward Lyra after midnight."
+    },
+    {
+      "name": "Eta Aquariids Meteor Shower Peak",
+      "type": "Meteor Shower",
+      "date": "2026-05-06T08:00:00Z",
+      "description": "Dust from Halley's Comet creates this shower. It favors southern hemisphere observers."
+    },
+    {
+      "name": "June Solstice",
+      "type": "Season",
+      "date": "2026-06-21T02:24:00Z",
+      "description": "The Sun reaches its northernmost apparent position, marking summer in the north and winter in the south."
+    },
+    {
+      "name": "Delta Aquariids Meteor Shower Peak",
+      "type": "Meteor Shower",
+      "date": "2026-07-30T06:00:00Z",
+      "description": "A steady meteor shower best viewed from dark southern skies."
+    },
+    {
+      "name": "Perseids Meteor Shower Peak",
+      "type": "Meteor Shower",
+      "date": "2026-08-12T18:00:00Z",
+      "description": "One of the most popular meteor showers of the year. The Perseids are known for bright meteors and occasional fireballs."
+    },
+    {
+      "name": "September Equinox",
+      "type": "Season",
+      "date": "2026-09-22T20:05:00Z",
+      "description": "The Sun crosses the celestial equator, bringing autumn to the northern hemisphere."
+    },
+    {
+      "name": "Orionids Meteor Shower Peak",
+      "type": "Meteor Shower",
+      "date": "2026-10-21T05:00:00Z",
+      "description": "Another Halley's Comet shower, with swift meteors radiating from Orion."
+    },
+    {
+      "name": "Taurids Meteor Shower Peak",
+      "type": "Meteor Shower",
+      "date": "2026-11-05T06:00:00Z",
+      "description": "The Taurids are slow and can produce bright fireballs over a long observing window."
+    },
+    {
+      "name": "Leonids Meteor Shower Peak",
+      "type": "Meteor Shower",
+      "date": "2026-11-17T10:00:00Z",
+      "description": "The Leonids are famous for rare meteor storms, though most years are modest."
+    },
+    {
+      "name": "December Solstice",
+      "type": "Season",
+      "date": "2026-12-21T15:50:00Z",
+      "description": "The Sun reaches its southernmost apparent position, marking winter in the north and summer in the south."
+    },
+    {
+      "name": "Geminids Meteor Shower Peak",
+      "type": "Meteor Shower",
+      "date": "2026-12-14T03:00:00Z",
+      "description": "Often the strongest annual meteor shower, produced by debris from asteroid 3200 Phaethon."
+    },
+    {
+      "name": "Ursids Meteor Shower Peak",
+      "type": "Meteor Shower",
+      "date": "2026-12-22T06:00:00Z",
+      "description": "A smaller northern meteor shower active near the December solstice."
+    }
+  ]
+}

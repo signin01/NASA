@@ -1,0 +1,88 @@
+﻿{
+  "rockets": [
+    {
+      "name": "Falcon 9",
+      "height_m": 70,
+      "payload_leo_kg": 22800,
+      "stages": 2,
+      "operator": "SpaceX"
+    },
+    {
+      "name": "Falcon Heavy",
+      "height_m": 70,
+      "payload_leo_kg": 63800,
+      "stages": 2,
+      "operator": "SpaceX"
+    },
+    {
+      "name": "Starship",
+      "height_m": 121,
+      "payload_leo_kg": 100000,
+      "stages": 2,
+      "operator": "SpaceX"
+    },
+    {
+      "name": "SLS Block 1",
+      "height_m": 98,
+      "payload_leo_kg": 95000,
+      "stages": 2,
+      "operator": "NASA"
+    },
+    {
+      "name": "Saturn V",
+      "height_m": 110.6,
+      "payload_leo_kg": 140000,
+      "stages": 3,
+      "operator": "NASA"
+    },
+    {
+      "name": "Electron",
+      "height_m": 18,
+      "payload_leo_kg": 300,
+      "stages": 2,
+      "operator": "Rocket Lab"
+    },
+    {
+      "name": "New Glenn",
+      "height_m": 98,
+      "payload_leo_kg": 45000,
+      "stages": 2,
+      "operator": "Blue Origin"
+    },
+    {
+      "name": "Ariane 6",
+      "height_m": 63,
+      "payload_leo_kg": 21500,
+      "stages": 2,
+      "operator": "Arianespace"
+    },
+    {
+      "name": "Vulcan Centaur",
+      "height_m": 61.6,
+      "payload_leo_kg": 27200,
+      "stages": 2,
+      "operator": "ULA"
+    },
+    {
+      "name": "Soyuz 2",
+      "height_m": 46.3,
+      "payload_leo_kg": 8200,
+      "stages": 3,
+      "operator": "Roscosmos"
+    },
+    {
+      "name": "Long March 5",
+      "height_m": 57,
+      "payload_leo_kg": 25000,
+      "stages": 2,
+      "operator": "CNSA"
+    },
+    {
+      "name": "GSLV Mk III",
+      "height_m": 43.5,
+      "payload_leo_kg": 10000,
+      "stages": 3,
+      "operator": "ISRO"
+    }
+  ]
+}

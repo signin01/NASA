@@ -1,0 +1,52 @@
+﻿{
+  "profiles": [
+    {
+      "name": "Neil Armstrong",
+      "agency": "NASA",
+      "role": "Apollo astronaut",
+      "knownFor": "First human to walk on the Moon"
+    },
+    {
+      "name": "Buzz Aldrin",
+      "agency": "NASA",
+      "role": "Apollo astronaut",
+      "knownFor": "Apollo 11 lunar module pilot"
+    },
+    {
+      "name": "Yuri Gagarin",
+      "agency": "Soviet space program",
+      "role": "Cosmonaut",
+      "knownFor": "First human in space"
+    },
+    {
+      "name": "Valentina Tereshkova",
+      "agency": "Soviet space program",
+      "role": "Cosmonaut",
+      "knownFor": "First woman in space"
+    },
+    {
+      "name": "Sally Ride",
+      "agency": "NASA",
+      "role": "Mission specialist",
+      "knownFor": "First American woman in space"
+    },
+    {
+      "name": "Mae Jemison",
+      "agency": "NASA",
+      "role": "Mission specialist",
+      "knownFor": "First African American woman in space"
+    },
+    {
+      "name": "Chris Hadfield",
+      "agency": "CSA",
+      "role": "ISS commander",
+      "knownFor": "First Canadian ISS commander"
+    },
+    {
+      "name": "Peggy Whitson",
+      "agency": "NASA",
+      "role": "Astronaut",
+      "knownFor": "Major cumulative time in space records"
+    }
+  ]
+}

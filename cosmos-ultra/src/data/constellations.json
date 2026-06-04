@@ -1,0 +1,164 @@
+﻿{
+  "constellations": [
+    {
+      "name": "Orion",
+      "hemisphere": "Northern",
+      "season": "Winter",
+      "brightestStar": "Rigel",
+      "story": "Orion is one of the most recognizable constellations, marked by three bright belt stars.",
+      "stars": ["Betelgeuse", "Rigel", "Bellatrix", "Saiph", "Alnitak", "Alnilam", "Mintaka"]
+    },
+    {
+      "name": "Ursa Major",
+      "hemisphere": "Northern",
+      "season": "Spring",
+      "brightestStar": "Alioth",
+      "story": "Ursa Major contains the Big Dipper asterism, often used for navigation.",
+      "stars": ["Dubhe", "Merak", "Phecda", "Megrez", "Alioth", "Mizar", "Alkaid"]
+    },
+    {
+      "name": "Ursa Minor",
+      "hemisphere": "Northern",
+      "season": "All year",
+      "brightestStar": "Polaris",
+      "story": "Ursa Minor contains Polaris, the North Star.",
+      "stars": ["Polaris", "Kochab", "Pherkad", "Yildun"]
+    },
+    {
+      "name": "Cassiopeia",
+      "hemisphere": "Northern",
+      "season": "Autumn",
+      "brightestStar": "Schedar",
+      "story": "Cassiopeia is famous for its W-shaped pattern.",
+      "stars": ["Schedar", "Caph", "Gamma Cassiopeiae", "Ruchbah", "Segin"]
+    },
+    {
+      "name": "Scorpius",
+      "hemisphere": "Southern",
+      "season": "Summer",
+      "brightestStar": "Antares",
+      "story": "Scorpius curves across the sky with red Antares marking the heart of the scorpion.",
+      "stars": ["Antares", "Shaula", "Sargas", "Dschubba", "Acrab"]
+    },
+    {
+      "name": "Cygnus",
+      "hemisphere": "Northern",
+      "season": "Summer",
+      "brightestStar": "Deneb",
+      "story": "Cygnus is the Swan and forms part of the Summer Triangle.",
+      "stars": ["Deneb", "Sadr", "Gienah", "Albireo", "Delta Cygni"]
+    },
+    {
+      "name": "Lyra",
+      "hemisphere": "Northern",
+      "season": "Summer",
+      "brightestStar": "Vega",
+      "story": "Lyra is small but prominent because of bright Vega.",
+      "stars": ["Vega", "Sheliak", "Sulafat"]
+    },
+    {
+      "name": "Aquila",
+      "hemisphere": "Northern",
+      "season": "Summer",
+      "brightestStar": "Altair",
+      "story": "Aquila represents the Eagle and includes Altair in the Summer Triangle.",
+      "stars": ["Altair", "Tarazed", "Alshain"]
+    },
+    {
+      "name": "Taurus",
+      "hemisphere": "Northern",
+      "season": "Winter",
+      "brightestStar": "Aldebaran",
+      "story": "Taurus contains the Hyades and Pleiades star clusters.",
+      "stars": ["Aldebaran", "Elnath", "Alcyone", "Ain"]
+    },
+    {
+      "name": "Gemini",
+      "hemisphere": "Northern",
+      "season": "Winter",
+      "brightestStar": "Pollux",
+      "story": "Gemini is represented by the twins Castor and Pollux.",
+      "stars": ["Pollux", "Castor", "Alhena", "Wasat"]
+    },
+    {
+      "name": "Leo",
+      "hemisphere": "Northern",
+      "season": "Spring",
+      "brightestStar": "Regulus",
+      "story": "Leo is recognized by the Sickle asterism and bright Regulus.",
+      "stars": ["Regulus", "Denebola", "Algieba", "Zosma"]
+    },
+    {
+      "name": "Virgo",
+      "hemisphere": "Both",
+      "season": "Spring",
+      "brightestStar": "Spica",
+      "story": "Virgo is a large zodiac constellation containing the Virgo Cluster of galaxies.",
+      "stars": ["Spica", "Porrima", "Vindemiatrix", "Zavijava"]
+    },
+    {
+      "name": "Crux",
+      "hemisphere": "Southern",
+      "season": "Autumn",
+      "brightestStar": "Acrux",
+      "story": "Crux, the Southern Cross, is a key navigation constellation in the southern sky.",
+      "stars": ["Acrux", "Mimosa", "Gacrux", "Imai"]
+    },
+    {
+      "name": "Centaurus",
+      "hemisphere": "Southern",
+      "season": "Autumn",
+      "brightestStar": "Alpha Centauri",
+      "story": "Centaurus contains Alpha Centauri, the closest star system to the Sun.",
+      "stars": ["Alpha Centauri", "Beta Centauri", "Menkent"]
+    },
+    {
+      "name": "Carina",
+      "hemisphere": "Southern",
+      "season": "Summer",
+      "brightestStar": "Canopus",
+      "story": "Carina contains Canopus, the second brightest star in the night sky.",
+      "stars": ["Canopus", "Miaplacidus", "Avior", "Aspidiske"]
+    },
+    {
+      "name": "Sagittarius",
+      "hemisphere": "Both",
+      "season": "Summer",
+      "brightestStar": "Kaus Australis",
+      "story": "Sagittarius points toward the center of the Milky Way.",
+      "stars": ["Kaus Australis", "Nunki", "Ascella", "Kaus Media"]
+    },
+    {
+      "name": "Andromeda",
+      "hemisphere": "Northern",
+      "season": "Autumn",
+      "brightestStar": "Alpheratz",
+      "story": "Andromeda hosts the Andromeda Galaxy, the nearest large spiral galaxy.",
+      "stars": ["Alpheratz", "Mirach", "Almach"]
+    },
+    {
+      "name": "Pegasus",
+      "hemisphere": "Northern",
+      "season": "Autumn",
+      "brightestStar": "Enif",
+      "story": "Pegasus is known for the Great Square asterism.",
+      "stars": ["Enif", "Markab", "Scheat", "Algenib"]
+    },
+    {
+      "name": "Canis Major",
+      "hemisphere": "Both",
+      "season": "Winter",
+      "brightestStar": "Sirius",
+      "story": "Canis Major contains Sirius, the brightest star in the night sky.",
+      "stars": ["Sirius", "Adhara", "Wezen", "Mirzam"]
+    },
+    {
+      "name": "Canis Minor",
+      "hemisphere": "Northern",
+      "season": "Winter",
+      "brightestStar": "Procyon",
+      "story": "Canis Minor is a small constellation marked by bright Procyon.",
+      "stars": ["Procyon", "Gomeisa"]
+    }
+  ]
+}

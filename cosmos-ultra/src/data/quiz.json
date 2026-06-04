@@ -1,0 +1,574 @@
+﻿{
+  "categories": {
+    "planets": {
+      "name": "Planets & Moons",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the largest planet in our solar system?",
+          "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "Jupiter is the largest planet.",
+          "funFact": "Jupiter is more massive than all other planets combined."
+        },
+        {
+          "id": 2,
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Venus", "Mars", "Mercury", "Neptune"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "Mars looks red because of iron oxide on its surface.",
+          "funFact": "Mars has the tallest volcano in the solar system."
+        },
+        {
+          "id": 3,
+          "question": "Which moon has a thick nitrogen atmosphere?",
+          "options": ["Europa", "Titan", "Io", "Phobos"],
+          "correct": 1,
+          "difficulty": "commander",
+          "explanation": "Titan, Saturn's moon, has a dense nitrogen-rich atmosphere.",
+          "funFact": "Titan has lakes and seas of liquid methane and ethane."
+        },
+        {
+          "id": 4,
+          "question": "Which planet rotates on its side?",
+          "options": ["Uranus", "Mars", "Jupiter", "Mercury"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Uranus has an axial tilt of about 98 degrees.",
+          "funFact": "Its seasons last more than 20 Earth years."
+        },
+        {
+          "id": 5,
+          "question": "Which moon is famous for active volcanoes?",
+          "options": ["Io", "Callisto", "Triton", "Charon"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Io is the most volcanically active world known.",
+          "funFact": "Jupiter's gravity drives Io's intense tidal heating."
+        },
+        {
+          "id": 6,
+          "question": "Which planet has the fastest rotation?",
+          "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+          "correct": 2,
+          "difficulty": "admiral",
+          "explanation": "Jupiter rotates in roughly 10 hours.",
+          "funFact": "That fast spin helps flatten Jupiter at the poles."
+        },
+        {
+          "id": 7,
+          "question": "Which planet has the hottest surface?",
+          "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "Venus is hottest because of its runaway greenhouse effect.",
+          "funFact": "Venus is hotter than Mercury despite being farther from the Sun."
+        },
+        {
+          "id": 8,
+          "question": "What is Pluto classified as today?",
+          "options": ["Gas giant", "Dwarf planet", "Comet", "Moon"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "Pluto is classified as a dwarf planet.",
+          "funFact": "Pluto has a large moon named Charon."
+        },
+        {
+          "id": 9,
+          "question": "Which moon likely has a subsurface ocean?",
+          "options": ["Europa", "Deimos", "Mimas only", "Hyperion only"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Europa has strong evidence for a global ocean under its ice.",
+          "funFact": "Europa is a major target in the search for life."
+        },
+        {
+          "id": 10,
+          "question": "Which planet is farthest from the Sun?",
+          "options": ["Uranus", "Neptune", "Saturn", "Pluto"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "Neptune is the farthest official planet.",
+          "funFact": "Neptune was predicted mathematically before it was observed."
+        }
+      ]
+    },
+    "missions": {
+      "name": "Mission History",
+      "questions": [
+        {
+          "id": 11,
+          "question": "Who was the first human to walk on the Moon?",
+          "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "Neil Armstrong stepped onto the Moon on July 20, 1969.",
+          "funFact": "Apollo 11 landed in the Sea of Tranquility."
+        },
+        {
+          "id": 12,
+          "question": "Which spacecraft first landed successfully on Mars?",
+          "options": ["Viking 1", "Curiosity", "Spirit", "Pathfinder"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Viking 1 landed on Mars in 1976.",
+          "funFact": "Viking 1 operated for more than six years."
+        },
+        {
+          "id": 13,
+          "question": "Which mission carried the first human into space?",
+          "options": ["Apollo 8", "Vostok 1", "Mercury-Redstone 3", "Gemini 4"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "Yuri Gagarin flew aboard Vostok 1 in 1961.",
+          "funFact": "The flight completed one orbit of Earth."
+        },
+        {
+          "id": 14,
+          "question": "Which telescope launched in 1990?",
+          "options": ["JWST", "Hubble", "Chandra", "Kepler"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "The Hubble Space Telescope launched in 1990.",
+          "funFact": "Astronauts serviced Hubble several times in orbit."
+        },
+        {
+          "id": 15,
+          "question": "Which mission first flew by Pluto?",
+          "options": ["Voyager 2", "New Horizons", "Cassini", "Dawn"],
+          "correct": 1,
+          "difficulty": "commander",
+          "explanation": "New Horizons flew past Pluto in 2015.",
+          "funFact": "It revealed Pluto's heart-shaped Tombaugh Regio."
+        },
+        {
+          "id": 16,
+          "question": "Which spacecraft explored Saturn for over a decade?",
+          "options": ["Cassini", "Galileo", "Juno", "Dawn"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Cassini orbited Saturn from 2004 to 2017.",
+          "funFact": "The Huygens probe landed on Titan."
+        },
+        {
+          "id": 17,
+          "question": "Which rover landed in Jezero Crater?",
+          "options": ["Curiosity", "Perseverance", "Spirit", "Opportunity"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "Perseverance landed in Jezero Crater in 2021.",
+          "funFact": "It is collecting samples for possible return to Earth."
+        },
+        {
+          "id": 18,
+          "question": "Which mission studies Jupiter today?",
+          "options": ["Juno", "Dawn", "Messenger", "Rosetta"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Juno studies Jupiter's atmosphere, magnetic field, and interior.",
+          "funFact": "Juno follows a highly elliptical polar orbit."
+        },
+        {
+          "id": 19,
+          "question": "Which mission returned comet dust to Earth?",
+          "options": ["Stardust", "DART", "SOHO", "LRO"],
+          "correct": 0,
+          "difficulty": "admiral",
+          "explanation": "Stardust returned samples from comet Wild 2.",
+          "funFact": "Its collector used aerogel to trap particles."
+        },
+        {
+          "id": 20,
+          "question": "Which mission intentionally impacted an asteroid moonlet?",
+          "options": ["DART", "Lucy", "Parker Solar Probe", "OSIRIS-REx"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "DART tested asteroid deflection by striking Dimorphos.",
+          "funFact": "The impact changed Dimorphos's orbital period."
+        }
+      ]
+    },
+    "astrophysics": {
+      "name": "Astrophysics",
+      "questions": [
+        {
+          "id": 21,
+          "question": "What powers main-sequence stars?",
+          "options": ["Chemical burning", "Nuclear fusion", "Tidal friction", "Radio waves"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "Stars fuse hydrogen into helium in their cores.",
+          "funFact": "Fusion converts a tiny amount of mass into energy."
+        },
+        {
+          "id": 22,
+          "question": "What is a light-year?",
+          "options": ["A unit of time", "A unit of distance", "A star type", "A telescope"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "A light-year is the distance light travels in one year.",
+          "funFact": "One light-year is about 9.46 trillion kilometers."
+        },
+        {
+          "id": 23,
+          "question": "What is the event horizon?",
+          "options": ["A galaxy edge", "A black hole boundary", "A solar flare", "A moon shadow"],
+          "correct": 1,
+          "difficulty": "commander",
+          "explanation": "It is the boundary beyond which light cannot escape a black hole.",
+          "funFact": "The first black hole image showed material near an event horizon."
+        },
+        {
+          "id": 24,
+          "question": "What is redshift often used to measure?",
+          "options": ["Cosmic expansion", "Rocket fuel", "Moon phases", "Planet rings"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Redshift can show that distant galaxies are receding.",
+          "funFact": "Greater redshift often means greater cosmic distance."
+        },
+        {
+          "id": 25,
+          "question": "What is a neutron star?",
+          "options": ["A cold planet", "A collapsed stellar core", "A comet nucleus", "A brown dwarf"],
+          "correct": 1,
+          "difficulty": "commander",
+          "explanation": "A neutron star is the ultra-dense remnant of a massive star.",
+          "funFact": "A spoonful of neutron star matter would be enormously massive."
+        },
+        {
+          "id": 26,
+          "question": "What does the Hertzsprung-Russell diagram compare?",
+          "options": ["Mass and orbit", "Luminosity and temperature", "Distance and speed", "Age and gravity"],
+          "correct": 1,
+          "difficulty": "admiral",
+          "explanation": "The H-R diagram plots stellar luminosity against temperature.",
+          "funFact": "It reveals main sequence stars, giants, and white dwarfs."
+        },
+        {
+          "id": 27,
+          "question": "What is dark matter mainly inferred from?",
+          "options": ["Galaxy rotation and gravity", "Comet tails", "Solar wind", "Auroras"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Dark matter is inferred from gravitational effects.",
+          "funFact": "It does not emit ordinary light."
+        },
+        {
+          "id": 28,
+          "question": "What is a supernova?",
+          "options": ["A small moon", "A stellar explosion", "A solar eclipse", "A rocket stage"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "A supernova is a powerful stellar explosion.",
+          "funFact": "Supernovae help create and spread heavy elements."
+        },
+        {
+          "id": 29,
+          "question": "What is the cosmic microwave background?",
+          "options": ["Relic radiation from early universe", "Noise from Mars", "Solar x-rays", "Moonlight"],
+          "correct": 0,
+          "difficulty": "admiral",
+          "explanation": "It is ancient radiation left from the early hot universe.",
+          "funFact": "It is one of the strongest pieces of evidence for the Big Bang model."
+        },
+        {
+          "id": 30,
+          "question": "What causes tides on Earth most strongly?",
+          "options": ["The Moon's gravity", "Mars", "Jupiter's rings", "Comets"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "The Moon's gravity is the main driver of tides.",
+          "funFact": "The Sun also contributes to tides."
+        }
+      ]
+    },
+    "technology": {
+      "name": "Space Technology",
+      "questions": [
+        {
+          "id": 31,
+          "question": "What does a rocket nozzle do?",
+          "options": ["Expands exhaust to create thrust", "Stores oxygen", "Measures stars", "Cools batteries"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "A nozzle accelerates hot exhaust gases.",
+          "funFact": "Nozzle shape depends on pressure and mission environment."
+        },
+        {
+          "id": 32,
+          "question": "What is specific impulse?",
+          "options": ["Engine efficiency", "Rocket color", "Crew mass", "Solar brightness"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Specific impulse measures propulsion efficiency.",
+          "funFact": "Higher Isp means more impulse per unit propellant."
+        },
+        {
+          "id": 33,
+          "question": "What does GPS rely on?",
+          "options": ["Atomic clocks", "Steam engines", "Moon dust", "Laser sails only"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "GPS satellites use precise atomic clocks.",
+          "funFact": "Relativity corrections are needed for GPS accuracy."
+        },
+        {
+          "id": 34,
+          "question": "What is aerobraking?",
+          "options": ["Using atmosphere to slow a spacecraft", "Burning fuel to speed up", "Landing on water", "Charging solar panels"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Aerobraking reduces orbital energy using atmospheric drag.",
+          "funFact": "It can save a large amount of propellant."
+        },
+        {
+          "id": 35,
+          "question": "What does JWST mainly observe?",
+          "options": ["Infrared light", "Sound waves", "Radio only", "Visible only"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "JWST is optimized for infrared astronomy.",
+          "funFact": "Its sunshield is about the size of a tennis court."
+        },
+        {
+          "id": 36,
+          "question": "What is SGP4 used for?",
+          "options": ["Satellite orbit propagation", "Image compression", "Rocket painting", "Crew exercise"],
+          "correct": 0,
+          "difficulty": "admiral",
+          "explanation": "SGP4 propagates satellite positions from TLE data.",
+          "funFact": "It is widely used for Earth-orbiting satellite tracking."
+        },
+        {
+          "id": 37,
+          "question": "What is a heat shield for?",
+          "options": ["Protecting during reentry", "Producing oxygen", "Making gravity", "Mapping galaxies"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "A heat shield protects spacecraft during atmospheric reentry.",
+          "funFact": "Some heat shields ablate, carrying heat away as material burns off."
+        },
+        {
+          "id": 38,
+          "question": "What is an ion engine known for?",
+          "options": ["High efficiency, low thrust", "High thrust, no power", "Only launch from Earth", "No exhaust"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Ion engines are efficient but produce low thrust.",
+          "funFact": "They can operate for very long durations."
+        },
+        {
+          "id": 39,
+          "question": "What is a TLE?",
+          "options": ["Two-line element set", "Thermal landing engine", "Time launch estimate", "Telescope lens error"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "A TLE stores orbital data in two formatted lines.",
+          "funFact": "TLEs are commonly used to track satellites."
+        },
+        {
+          "id": 40,
+          "question": "What does a reaction wheel control?",
+          "options": ["Spacecraft attitude", "Fuel temperature", "Launch sound", "Landing parachute"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Reaction wheels help rotate and point spacecraft.",
+          "funFact": "They exchange angular momentum with the spacecraft body."
+        }
+      ]
+    },
+    "astronauts": {
+      "name": "Famous Astronauts",
+      "questions": [
+        {
+          "id": 41,
+          "question": "Who was the first woman in space?",
+          "options": ["Sally Ride", "Valentina Tereshkova", "Mae Jemison", "Peggy Whitson"],
+          "correct": 1,
+          "difficulty": "cadet",
+          "explanation": "Valentina Tereshkova flew in 1963.",
+          "funFact": "She orbited Earth 48 times."
+        },
+        {
+          "id": 42,
+          "question": "Who was the first American woman in space?",
+          "options": ["Sally Ride", "Eileen Collins", "Kathryn Sullivan", "Christa McAuliffe"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "Sally Ride flew aboard Challenger in 1983.",
+          "funFact": "She was also a physicist."
+        },
+        {
+          "id": 43,
+          "question": "Who was the first African American woman in space?",
+          "options": ["Mae Jemison", "Nichelle Nichols", "Jessica Watkins", "Joan Higginbotham"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "Mae Jemison flew on Space Shuttle Endeavour in 1992.",
+          "funFact": "She is also a physician and engineer."
+        },
+        {
+          "id": 44,
+          "question": "Who stayed in orbit while Armstrong and Aldrin walked on the Moon?",
+          "options": ["Michael Collins", "John Glenn", "Alan Shepard", "Jim Lovell"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "Michael Collins piloted the Apollo 11 command module.",
+          "funFact": "He orbited the Moon alone during the landing."
+        },
+        {
+          "id": 45,
+          "question": "Who was the first American to orbit Earth?",
+          "options": ["John Glenn", "Alan Shepard", "Gus Grissom", "Scott Carpenter"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "John Glenn orbited Earth in 1962.",
+          "funFact": "He later returned to space at age 77."
+        },
+        {
+          "id": 46,
+          "question": "Who commanded Apollo 13?",
+          "options": ["Jim Lovell", "Pete Conrad", "Frank Borman", "Gene Cernan"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Jim Lovell commanded Apollo 13.",
+          "funFact": "Apollo 13 survived a major oxygen tank failure."
+        },
+        {
+          "id": 47,
+          "question": "Who was the first person to perform a spacewalk?",
+          "options": ["Alexei Leonov", "Ed White", "Yuri Gagarin", "Neil Armstrong"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Alexei Leonov performed the first EVA in 1965.",
+          "funFact": "His suit expanded, making reentry into the capsule difficult."
+        },
+        {
+          "id": 48,
+          "question": "Who was the first Canadian commander of the ISS?",
+          "options": ["Chris Hadfield", "Marc Garneau", "Jeremy Hansen", "David Saint-Jacques"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Chris Hadfield commanded the ISS in 2013.",
+          "funFact": "He became famous for music and education from orbit."
+        },
+        {
+          "id": 49,
+          "question": "Who holds major cumulative time-in-space records among NASA astronauts?",
+          "options": ["Peggy Whitson", "Sally Ride", "John Young", "Buzz Aldrin"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Peggy Whitson has held major NASA duration records.",
+          "funFact": "She has commanded the ISS more than once."
+        },
+        {
+          "id": 50,
+          "question": "Who was the last person to walk on the Moon in Apollo?",
+          "options": ["Gene Cernan", "Harrison Schmitt", "Alan Bean", "Dave Scott"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Gene Cernan was the last person on the lunar surface during Apollo 17.",
+          "funFact": "Apollo 17 launched in December 1972."
+        }
+      ]
+    },
+    "current": {
+      "name": "Current Space Programs",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What is NASA's Artemis program focused on?",
+          "options": ["Returning humans to the Moon", "Mining Venus", "Landing on Pluto", "Building Mars canals"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "Artemis focuses on lunar exploration and preparation for Mars.",
+          "funFact": "Artemis includes the Space Launch System and Orion spacecraft."
+        },
+        {
+          "id": 52,
+          "question": "What is SpaceX Starship designed to be?",
+          "options": ["Fully reusable heavy-lift system", "A weather balloon", "A telescope", "A Mars rover"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "Starship is intended as a reusable heavy-lift launch system.",
+          "funFact": "It is central to several lunar and Mars ambitions."
+        },
+        {
+          "id": 53,
+          "question": "What is the Lunar Gateway?",
+          "options": ["A planned Moon-orbiting station", "A Mars crater", "A telescope mirror", "A comet"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Gateway is planned as a station in lunar orbit.",
+          "funFact": "It will support Artemis missions."
+        },
+        {
+          "id": 54,
+          "question": "What does CLPS stand for?",
+          "options": ["Commercial Lunar Payload Services", "Crew Launch Power System", "Cosmic Light Probe Survey", "Cargo Lunar Pilot Station"],
+          "correct": 0,
+          "difficulty": "admiral",
+          "explanation": "CLPS delivers science and technology payloads to the Moon.",
+          "funFact": "It uses commercial lunar landers."
+        },
+        {
+          "id": 55,
+          "question": "What is the ISS primarily used for?",
+          "options": ["Microgravity research", "Deep-sea mapping", "Ocean mining", "Weather balloons"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "The ISS supports research in microgravity.",
+          "funFact": "Experiments cover biology, physics, medicine, and technology."
+        },
+        {
+          "id": 56,
+          "question": "What does ESA stand for?",
+          "options": ["European Space Agency", "Earth Solar Array", "Engine Systems Alliance", "External Satellite Archive"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "ESA is the European Space Agency.",
+          "funFact": "ESA works with NASA and other partners on many missions."
+        },
+        {
+          "id": 57,
+          "question": "What is the main goal of planetary defense missions?",
+          "options": ["Reduce asteroid impact risk", "Create auroras", "Launch tourists", "Paint satellites"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "Planetary defense tracks and studies potentially hazardous objects.",
+          "funFact": "DART was a planetary defense demonstration."
+        },
+        {
+          "id": 58,
+          "question": "What is OSIRIS-REx famous for?",
+          "options": ["Returning asteroid samples", "Landing on Venus", "Studying Saturn rings", "Orbiting Neptune"],
+          "correct": 0,
+          "difficulty": "commander",
+          "explanation": "OSIRIS-REx returned samples from asteroid Bennu.",
+          "funFact": "Its sample capsule landed in Utah."
+        },
+        {
+          "id": 59,
+          "question": "What does a cubesat usually mean?",
+          "options": ["Small standardized satellite", "Cube-shaped asteroid", "Moon base module", "Rocket fuel tank"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "CubeSats are small satellites built to standard unit sizes.",
+          "funFact": "They make space missions more accessible."
+        },
+        {
+          "id": 60,
+          "question": "What is commercial crew?",
+          "options": ["Private spacecraft carrying astronauts for NASA", "A telescope network", "A Mars soil lab", "A lunar rock type"],
+          "correct": 0,
+          "difficulty": "cadet",
+          "explanation": "Commercial Crew uses private spacecraft to transport astronauts.",
+          "funFact": "Crew Dragon has flown astronauts to the ISS."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,247 @@
+﻿{
+  "objects": [
+    {
+      "id": "M1",
+      "name": "Crab Nebula",
+      "type": "Supernova Remnant",
+      "constellation": "Taurus",
+      "distance": "6500 ly",
+      "magnitude": 8.4,
+      "notes": "The remnant of a supernova recorded by astronomers in 1054."
+    },
+    {
+      "id": "M2",
+      "name": "Messier 2",
+      "type": "Globular Cluster",
+      "constellation": "Aquarius",
+      "distance": "55000 ly",
+      "magnitude": 6.5,
+      "notes": "A dense ancient cluster containing many old stars."
+    },
+    {
+      "id": "M3",
+      "name": "Messier 3",
+      "type": "Globular Cluster",
+      "constellation": "Canes Venatici",
+      "distance": "33900 ly",
+      "magnitude": 6.2,
+      "notes": "One of the brightest globular clusters visible from northern skies."
+    },
+    {
+      "id": "M4",
+      "name": "Messier 4",
+      "type": "Globular Cluster",
+      "constellation": "Scorpius",
+      "distance": "7200 ly",
+      "magnitude": 5.6,
+      "notes": "A nearby globular cluster close to Antares."
+    },
+    {
+      "id": "M5",
+      "name": "Messier 5",
+      "type": "Globular Cluster",
+      "constellation": "Serpens",
+      "distance": "24500 ly",
+      "magnitude": 5.7,
+      "notes": "A rich cluster with hundreds of thousands of stars."
+    },
+    {
+      "id": "M6",
+      "name": "Butterfly Cluster",
+      "type": "Open Cluster",
+      "constellation": "Scorpius",
+      "distance": "1600 ly",
+      "magnitude": 4.2,
+      "notes": "Its bright stars form a shape resembling a butterfly."
+    },
+    {
+      "id": "M7",
+      "name": "Ptolemy Cluster",
+      "type": "Open Cluster",
+      "constellation": "Scorpius",
+      "distance": "980 ly",
+      "magnitude": 3.3,
+      "notes": "A bright open cluster visible to the unaided eye."
+    },
+    {
+      "id": "M8",
+      "name": "Lagoon Nebula",
+      "type": "Emission Nebula",
+      "constellation": "Sagittarius",
+      "distance": "4100 ly",
+      "magnitude": 6.0,
+      "notes": "A large stellar nursery near the Milky Way core."
+    },
+    {
+      "id": "M13",
+      "name": "Hercules Cluster",
+      "type": "Globular Cluster",
+      "constellation": "Hercules",
+      "distance": "22200 ly",
+      "magnitude": 5.8,
+      "notes": "One of the finest globular clusters in the northern sky."
+    },
+    {
+      "id": "M16",
+      "name": "Eagle Nebula",
+      "type": "Emission Nebula",
+      "constellation": "Serpens",
+      "distance": "7000 ly",
+      "magnitude": 6.0,
+      "notes": "Home of the famous Pillars of Creation."
+    },
+    {
+      "id": "M17",
+      "name": "Omega Nebula",
+      "type": "Emission Nebula",
+      "constellation": "Sagittarius",
+      "distance": "5000 ly",
+      "magnitude": 6.0,
+      "notes": "Also called the Swan Nebula."
+    },
+    {
+      "id": "M20",
+      "name": "Trifid Nebula",
+      "type": "Emission and Reflection Nebula",
+      "constellation": "Sagittarius",
+      "distance": "5200 ly",
+      "magnitude": 6.3,
+      "notes": "Known for its three-lobed appearance."
+    },
+    {
+      "id": "M27",
+      "name": "Dumbbell Nebula",
+      "type": "Planetary Nebula",
+      "constellation": "Vulpecula",
+      "distance": "1360 ly",
+      "magnitude": 7.5,
+      "notes": "One of the easiest planetary nebulae to observe."
+    },
+    {
+      "id": "M31",
+      "name": "Andromeda Galaxy",
+      "type": "Spiral Galaxy",
+      "constellation": "Andromeda",
+      "distance": "2.5 million ly",
+      "magnitude": 3.4,
+      "notes": "The nearest large spiral galaxy to the Milky Way."
+    },
+    {
+      "id": "M33",
+      "name": "Triangulum Galaxy",
+      "type": "Spiral Galaxy",
+      "constellation": "Triangulum",
+      "distance": "2.7 million ly",
+      "magnitude": 5.7,
+      "notes": "A nearby face-on spiral galaxy."
+    },
+    {
+      "id": "M42",
+      "name": "Orion Nebula",
+      "type": "Emission Nebula",
+      "constellation": "Orion",
+      "distance": "1344 ly",
+      "magnitude": 4.0,
+      "notes": "A bright star-forming region visible in Orion's sword."
+    },
+    {
+      "id": "M45",
+      "name": "Pleiades",
+      "type": "Open Cluster",
+      "constellation": "Taurus",
+      "distance": "444 ly",
+      "magnitude": 1.6,
+      "notes": "A famous cluster also known as the Seven Sisters."
+    },
+    {
+      "id": "M51",
+      "name": "Whirlpool Galaxy",
+      "type": "Spiral Galaxy",
+      "constellation": "Canes Venatici",
+      "distance": "23 million ly",
+      "magnitude": 8.4,
+      "notes": "A dramatic interacting spiral galaxy."
+    },
+    {
+      "id": "M57",
+      "name": "Ring Nebula",
+      "type": "Planetary Nebula",
+      "constellation": "Lyra",
+      "distance": "2567 ly",
+      "magnitude": 8.8,
+      "notes": "A classic ring-shaped planetary nebula."
+    },
+    {
+      "id": "M63",
+      "name": "Sunflower Galaxy",
+      "type": "Spiral Galaxy",
+      "constellation": "Canes Venatici",
+      "distance": "29 million ly",
+      "magnitude": 9.3,
+      "notes": "A spiral galaxy with a textured, flocculent structure."
+    },
+    {
+      "id": "M81",
+      "name": "Bode's Galaxy",
+      "type": "Spiral Galaxy",
+      "constellation": "Ursa Major",
+      "distance": "12 million ly",
+      "magnitude": 6.9,
+      "notes": "A bright galaxy often paired visually with M82."
+    },
+    {
+      "id": "M82",
+      "name": "Cigar Galaxy",
+      "type": "Starburst Galaxy",
+      "constellation": "Ursa Major",
+      "distance": "12 million ly",
+      "magnitude": 8.4,
+      "notes": "A galaxy undergoing intense star formation."
+    },
+    {
+      "id": "M87",
+      "name": "Virgo A",
+      "type": "Elliptical Galaxy",
+      "constellation": "Virgo",
+      "distance": "53 million ly",
+      "magnitude": 8.6,
+      "notes": "Hosts the famous black hole imaged by the Event Horizon Telescope."
+    },
+    {
+      "id": "M97",
+      "name": "Owl Nebula",
+      "type": "Planetary Nebula",
+      "constellation": "Ursa Major",
+      "distance": "2030 ly",
+      "magnitude": 9.9,
+      "notes": "Its dark patches resemble owl eyes."
+    },
+    {
+      "id": "M101",
+      "name": "Pinwheel Galaxy",
+      "type": "Spiral Galaxy",
+      "constellation": "Ursa Major",
+      "distance": "21 million ly",
+      "magnitude": 7.9,
+      "notes": "A large face-on spiral galaxy."
+    },
+    {
+      "id": "M104",
+      "name": "Sombrero Galaxy",
+      "type": "Spiral Galaxy",
+      "constellation": "Virgo",
+      "distance": "31 million ly",
+      "magnitude": 8.0,
+      "notes": "Famous for its bright core and dark dust lane."
+    },
+    {
+      "id": "M110",
+      "name": "Messier 110",
+      "type": "Dwarf Elliptical Galaxy",
+      "constellation": "Andromeda",
+      "distance": "2.7 million ly",
+      "magnitude": 8.0,
+      "notes": "A satellite galaxy of Andromeda."
+    }
+  ]
+}
